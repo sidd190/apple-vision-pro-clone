@@ -42,7 +42,6 @@ A visually stunning and interactive clone of the Apple Vision Pro website built 
 3. Open `index.html` in a browser or use Live Server in VS Code for best results.
 
 ## 📷 Screenshots
-[🎥 Watch Demo Video](assets/demo.webm)
 ![Screenshot from the website](assets/Ss1.png)
 ![Screenshot from the website](assets/Ss2.png)
 ![Screenshot from the website](assets/Ss3.png)
