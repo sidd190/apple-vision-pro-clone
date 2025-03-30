@@ -2,6 +2,10 @@
 
 A visually stunning and interactive clone of the Apple Vision Pro website built using **HTML, CSS, and JavaScript**, with **GSAP, Locomotive Scroll, and Canvas** for smooth animations and dynamic effects.
 
+## 🪧 Live Website
+
+https://sidd190.github.io/apple-vision-pro-clone/
+
 ## 🚀 Features
 
 - **Smooth Scrolling** – Implemented with Locomotive Scroll for a seamless user experience.
