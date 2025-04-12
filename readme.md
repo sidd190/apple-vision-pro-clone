@@ -1,4 +1,4 @@
-# Apple Vision Pro Website Clone
+# Apple Vision Pro Website Clone - FrontEnd
 
 A visually stunning and interactive clone of the Apple Vision Pro website built using **HTML, CSS, and JavaScript**, with **GSAP, Locomotive Scroll, and Canvas** for smooth animations and dynamic effects.
 
